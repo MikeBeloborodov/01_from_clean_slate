@@ -13,8 +13,8 @@
 
 ### Ссылки
 
-- URL решения: [Github](https://your-solution-url.com)
-- URL лайв сервера: [Netlify](https://your-live-site-url.com)
+- URL решения: [Github](https://github.com/MikeBeloborodov/01_from_clean_slate)
+- URL лайв сервера: [Netlify](https://deft-stroopwafel-85b5aa.netlify.app/)
 
 ## Автор
 
